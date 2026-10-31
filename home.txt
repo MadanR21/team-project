@@ -4,6 +4,6 @@
     <title>Team Project</title>
 </head>
 <body>
-    <h1>Welcome to Team Project</h1>
+    <h1>Welcome Student A</h1>
 </body>
 </html>
